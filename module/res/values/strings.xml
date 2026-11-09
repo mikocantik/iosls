@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iOS Lock Screen XOS</string>
+    <string name="module_desc">iOS-style lockscreen notification center for XOS Transsion SystemUI, plus a Restart SystemUI power menu entry.</string>
+</resources>

@@ -1,0 +1,10 @@
+/tools/jdk17/
+/tools/sdk/
+/tools/signing/
+/tools/*.zip
+/tools/*.tar.gz
+/build/
+/.venv/
+__pycache__/
+*.apk
+!release/*.apk
